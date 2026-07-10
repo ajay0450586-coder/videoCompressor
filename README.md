@@ -14,7 +14,7 @@ No server uploads, no backend storage.
 <image src="./assets/videoCopressor2.png"></image>
 
 ## Demo
-[Watch the demo](assets/videoCompressor.mp4)
+[Watch the demo](assets/compressed_videoCompressor.mp4)
 
 ## Features
 
