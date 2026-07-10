@@ -1,0 +1,6 @@
+{
+  "name": "Offline Video Compressor",
+  "description": "A fully offline, client-side video compressor using FFmpeg WASM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
