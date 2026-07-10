@@ -13,7 +13,10 @@ No server uploads, no backend storage.
 <image src="./assets/videoCopressor1.png"></image>
 <image src="./assets/videoCopressor2.png"></image>
 
-## Demo / Features
+## Demo
+[Watch the demo](assets/videoCompressor.mp4)
+
+## Features
 
 - **Offline compression** using `@ffmpeg/ffmpeg` (FFmpeg WASM)
 - **Progress + status UI** while encoding
